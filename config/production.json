@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret":"putinh1u2y3l4o5",
+  "moongourl": "mongodb+srv://admin:admin@cluster0.mq2bkyq.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
